@@ -1,0 +1,23 @@
+{
+  "theme_color": "#0d1117",
+  "background_color": "#0d1117",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Pan's Oracle",
+  "short_name": "Pan's Oracle",
+  "description": "An ancient mythological prediction engine that weaves personal words and musical tones into unique lottery game matrices.",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
