@@ -2,6 +2,7 @@
   "theme_color": "#0d1117",
   "background_color": "#0d1117",
   "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
   "scope": "/",
   "start_url": "/",
   "name": "Pan's Oracle",
@@ -18,6 +19,22 @@
       "src": "assets/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshot-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Pan's Oracle Desktop Experience"
+    },
+    {
+      "src": "assets/screenshot-mobile.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Pan's Oracle Mobile Experience"
     }
   ]
 }
